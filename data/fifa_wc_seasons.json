@@ -1,0 +1,1393 @@
+{
+  "ContinuationToken": null,
+  "ContinuationHash": null,
+  "Results": [
+    {
+      "IdSeason": "285023",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup 2026™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2026",
+      "IdMemberAssociation": [
+        "USA",
+        "CAN",
+        "MEX",
+        "JPN",
+        "NZL",
+        "IRN",
+        "ARG",
+        "UZB",
+        "JOR",
+        "KOR",
+        "AUS",
+        "BRA",
+        "ECU",
+        "COL",
+        "PAR",
+        "URU",
+        "MAR",
+        "TUN",
+        "EGY",
+        "ALG",
+        "GHA",
+        "CPV",
+        "RSA",
+        "QAT",
+        "ENG",
+        "KSA",
+        "CIV",
+        "SEN",
+        "FRA",
+        "CRO",
+        "POR",
+        "NOR",
+        "GER",
+        "NED",
+        "BEL",
+        "ESP",
+        "SUI",
+        "AUT",
+        "SCO",
+        "PAN",
+        "CUW",
+        "HAI",
+        "BIH",
+        "COD",
+        "CZE",
+        "IRQ",
+        "SWE",
+        "TUR"
+      ],
+      "IdConfederation": [
+        "CONCACAF",
+        "AFC",
+        "OFC",
+        "CONMEBOL",
+        "CAF",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2026-06-11T19:00:00Z",
+      "EndDate": "2026-07-19T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/285023",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/285023",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/285023",
+      "HostTeams": [
+        {
+          "IdTeam": "43921"
+        },
+        {
+          "IdTeam": "43899"
+        },
+        {
+          "IdTeam": "43911"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "285023",
+        "Providers": "IHU"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "255711",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "FIFA World Cup Qatar 2022™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2022",
+      "IdMemberAssociation": [
+        "QAT",
+        "GER",
+        "DEN",
+        "BRA",
+        "FRA",
+        "BEL",
+        "CRO",
+        "ESP",
+        "SRB",
+        "ENG",
+        "SUI",
+        "NED",
+        "ARG",
+        "IRN",
+        "KOR",
+        "JPN",
+        "KSA",
+        "ECU",
+        "URU",
+        "CAN",
+        "GHA",
+        "SEN",
+        "POR",
+        "POL",
+        "MAR",
+        "TUN",
+        "CMR",
+        "USA",
+        "MEX",
+        "AUS",
+        "CRC",
+        "WAL"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "UEFA",
+        "CONMEBOL",
+        "CONCACAF",
+        "CAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2022-11-20T16:00:00Z",
+      "EndDate": "2022-12-18T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/255711",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/255711",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/255711",
+      "HostTeams": [
+        {
+          "IdTeam": "43834"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "255711",
+        "Providers": "IMM"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "254645",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2018 FIFA World Cup Russia™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2018",
+      "IdMemberAssociation": [
+        "RUS",
+        "BRA",
+        "IRN",
+        "JPN",
+        "MEX",
+        "BEL",
+        "KOR",
+        "KSA",
+        "GER",
+        "ENG",
+        "ESP",
+        "NGA",
+        "CRC",
+        "POL",
+        "EGY",
+        "SRB",
+        "ISL",
+        "FRA",
+        "POR",
+        "ARG",
+        "COL",
+        "URU",
+        "PAN",
+        "TUN",
+        "PER",
+        "MAR",
+        "SEN",
+        "AUS",
+        "CRO",
+        "DEN",
+        "SWE",
+        "SUI"
+      ],
+      "IdConfederation": [
+        "UEFA",
+        "CONMEBOL",
+        "AFC",
+        "CONCACAF",
+        "CAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2018-06-14T15:00:00Z",
+      "EndDate": "2018-07-15T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/254645",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/254645",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/254645",
+      "HostTeams": [
+        {
+          "IdTeam": "43965"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "254645",
+        "Providers": "IMM"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "251164",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2014 FIFA World Cup Brazil™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2014",
+      "IdMemberAssociation": [
+        "BRA",
+        "JPN",
+        "AUS",
+        "IRN",
+        "KOR",
+        "USA",
+        "CRC",
+        "ARG",
+        "NED",
+        "ITA",
+        "BEL",
+        "GER",
+        "SUI",
+        "COL",
+        "BIH",
+        "ENG",
+        "RUS",
+        "ESP",
+        "HON",
+        "CHI",
+        "ECU",
+        "CMR",
+        "CIV",
+        "NGA",
+        "ALG",
+        "GHA",
+        "CRO",
+        "FRA",
+        "GRE",
+        "POR",
+        "MEX",
+        "URU"
+      ],
+      "IdConfederation": [
+        "CONMEBOL",
+        "AFC",
+        "CONCACAF",
+        "UEFA",
+        "CAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2014-06-12T20:00:00Z",
+      "EndDate": "2014-07-13T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/251164",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/251164",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/251164",
+      "HostTeams": [
+        {
+          "IdTeam": "43924"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "251164",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "249715",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2010 FIFA World Cup South Africa™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2010",
+      "IdMemberAssociation": [
+        "AUS",
+        "JPN",
+        "KOR",
+        "NED",
+        "RSA",
+        "PRK",
+        "BRA",
+        "GHA",
+        "ENG",
+        "ESP",
+        "PAR",
+        "CIV",
+        "GER",
+        "DEN",
+        "SRB",
+        "ITA",
+        "CHI",
+        "MEX",
+        "USA",
+        "SUI",
+        "SVK",
+        "ARG",
+        "HON",
+        "NZL",
+        "NGA",
+        "CMR",
+        "ALG",
+        "GRE",
+        "SVN",
+        "POR",
+        "FRA",
+        "URU"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "UEFA",
+        "CAF",
+        "CONMEBOL",
+        "CONCACAF",
+        "OFC"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2010-06-11T14:00:00Z",
+      "EndDate": "2010-07-11T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/249715",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/249715",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/249715",
+      "HostTeams": [
+        {
+          "IdTeam": "43883"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "249715",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "9741",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2006 FIFA World Cup Germany™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2006",
+      "IdMemberAssociation": [
+        "ARG",
+        "GER",
+        "IRN",
+        "JPN",
+        "KOR",
+        "KSA",
+        "BRA",
+        "MEX",
+        "USA",
+        "UKR",
+        "ENG",
+        "ITA",
+        "NED",
+        "POL",
+        "POR",
+        "GHA",
+        "TOG",
+        "ECU",
+        "PAR",
+        "CRC",
+        "ANG",
+        "TUN",
+        "CRO",
+        "FRA",
+        "SCG",
+        "SWE",
+        "CIV",
+        "AUS",
+        "TRI",
+        "CZE",
+        "SUI",
+        "ESP"
+      ],
+      "IdConfederation": [
+        "CONMEBOL",
+        "UEFA",
+        "AFC",
+        "CONCACAF",
+        "CAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2006-06-09T16:00:00Z",
+      "EndDate": "2006-07-09T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/9741",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/9741",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/9741",
+      "HostTeams": [
+        {
+          "IdTeam": "43948"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "9741",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "4395",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "2002 FIFA World Cup Korea/Japan™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 2002",
+      "IdMemberAssociation": [
+        "JPN",
+        "KOR",
+        "FRA",
+        "SEN",
+        "TUN",
+        "RSA",
+        "CMR",
+        "NGA",
+        "ARG",
+        "POL",
+        "ESP",
+        "SWE",
+        "DEN",
+        "ITA",
+        "CHN",
+        "GER",
+        "IRL",
+        "MEX",
+        "ENG",
+        "POR",
+        "USA",
+        "RUS",
+        "CRC",
+        "PAR",
+        "KSA",
+        "BRA",
+        "CRO",
+        "BEL",
+        "ECU",
+        "SVN",
+        "TUR",
+        "URU"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "UEFA",
+        "CAF",
+        "CONMEBOL",
+        "CONCACAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "2002-05-31T11:30:00Z",
+      "EndDate": "2002-06-30T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/4395",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/4395",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/4395",
+      "HostTeams": [
+        {
+          "IdTeam": "43819"
+        },
+        {
+          "IdTeam": "43822"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "4395",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "1013",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1998 FIFA World Cup France™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1998",
+      "IdMemberAssociation": [
+        "BRA",
+        "SCO",
+        "MAR",
+        "NOR",
+        "ITA",
+        "CHI",
+        "CMR",
+        "AUT",
+        "FRA",
+        "RSA",
+        "KSA",
+        "DEN",
+        "ESP",
+        "NGA",
+        "PAR",
+        "BUL",
+        "NED",
+        "BEL",
+        "KOR",
+        "MEX",
+        "GER",
+        "USA",
+        "YUG",
+        "IRN",
+        "ROU",
+        "COL",
+        "ENG",
+        "TUN",
+        "ARG",
+        "JPN",
+        "JAM",
+        "CRO"
+      ],
+      "IdConfederation": [
+        "CONMEBOL",
+        "UEFA",
+        "CAF",
+        "AFC",
+        "CONCACAF"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1998-06-10T15:30:00Z",
+      "EndDate": "1998-07-12T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/1013",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/1013",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/1013",
+      "HostTeams": [
+        {
+          "IdTeam": "43946"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "1013",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "84",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1994 FIFA World Cup USA™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1994",
+      "IdMemberAssociation": [
+        "KOR",
+        "KSA",
+        "CMR",
+        "MAR",
+        "NGA",
+        "MEX",
+        "USA",
+        "ARG",
+        "BOL",
+        "BRA",
+        "COL",
+        "BEL",
+        "BUL",
+        "GER",
+        "GRE",
+        "IRL",
+        "ITA",
+        "NED",
+        "NOR",
+        "ROU",
+        "RUS",
+        "ESP",
+        "SWE",
+        "SUI"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1994-06-17T20:00:00Z",
+      "EndDate": "1994-07-17T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/84",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/84",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/84",
+      "HostTeams": [
+        {
+          "IdTeam": "43921"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "84",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "76",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1990 FIFA World Cup Italy™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1990",
+      "IdMemberAssociation": [
+        "KOR",
+        "UAE",
+        "CMR",
+        "EGY",
+        "CRC",
+        "USA",
+        "ARG",
+        "BRA",
+        "COL",
+        "URU",
+        "AUT",
+        "BEL",
+        "ENG",
+        "IRL",
+        "ITA",
+        "NED",
+        "ROU",
+        "SCO",
+        "ESP",
+        "SWE",
+        "YUG",
+        "FRG",
+        "TCH",
+        "URS"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1990-06-08T16:00:00Z",
+      "EndDate": "1990-07-08T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/76",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/76",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/76",
+      "HostTeams": [
+        {
+          "IdTeam": "43954"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "76",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "68",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1986 FIFA World Cup Mexico™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1986",
+      "IdMemberAssociation": [
+        "IRQ",
+        "KOR",
+        "ALG",
+        "MAR",
+        "CAN",
+        "MEX",
+        "ARG",
+        "BRA",
+        "PAR",
+        "URU",
+        "BEL",
+        "BUL",
+        "DEN",
+        "ENG",
+        "FRA",
+        "HUN",
+        "NIR",
+        "ITA",
+        "POL",
+        "POR",
+        "SCO",
+        "ESP",
+        "FRG",
+        "URS"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1986-05-31T17:00:00Z",
+      "EndDate": "1986-06-29T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/68",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/68",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/68",
+      "HostTeams": [
+        {
+          "IdTeam": "43911"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "68",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "59",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1982 FIFA World Cup Spain™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1982",
+      "IdMemberAssociation": [
+        "KUW",
+        "ALG",
+        "CMR",
+        "SLV",
+        "HON",
+        "ARG",
+        "BRA",
+        "CHI",
+        "PER",
+        "AUT",
+        "BEL",
+        "ENG",
+        "FRA",
+        "HUN",
+        "NIR",
+        "ITA",
+        "POL",
+        "SCO",
+        "ESP",
+        "YUG",
+        "NZL",
+        "FRG",
+        "TCH",
+        "URS"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA",
+        "OFC"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1982-06-13T18:00:00Z",
+      "EndDate": "1982-07-11T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/59",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/59",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/59",
+      "HostTeams": [
+        {
+          "IdTeam": "43969"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "59",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "50",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1978 FIFA World Cup Argentina™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1978",
+      "IdMemberAssociation": [
+        "IRN",
+        "TUN",
+        "MEX",
+        "ARG",
+        "BRA",
+        "PER",
+        "AUT",
+        "FRA",
+        "HUN",
+        "ITA",
+        "NED",
+        "POL",
+        "SCO",
+        "ESP",
+        "SWE",
+        "FRG"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1978-06-01T18:00:00Z",
+      "EndDate": "1978-06-25T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/50",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/50",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/50",
+      "HostTeams": [
+        {
+          "IdTeam": "43922"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "50",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "39",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1974 FIFA World Cup Germany™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1974",
+      "IdMemberAssociation": [
+        "ZAI",
+        "HAI",
+        "ARG",
+        "BRA",
+        "CHI",
+        "URU",
+        "BUL",
+        "ITA",
+        "NED",
+        "POL",
+        "SCO",
+        "SWE",
+        "YUG",
+        "AUS",
+        "FRG",
+        "GDR"
+      ],
+      "IdConfederation": [
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA",
+        "AFC"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1974-06-13T15:00:00Z",
+      "EndDate": "1974-07-07T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/39",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/39",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/39",
+      "HostTeams": [
+        {
+          "IdTeam": "44023"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "39",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "32",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1970 FIFA World Cup Mexico™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1970",
+      "IdMemberAssociation": [
+        "MAR",
+        "SLV",
+        "MEX",
+        "BRA",
+        "PER",
+        "URU",
+        "BEL",
+        "BUL",
+        "ENG",
+        "ITA",
+        "ROU",
+        "SWE",
+        "ISR",
+        "FRG",
+        "TCH",
+        "URS"
+      ],
+      "IdConfederation": [
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1970-05-31T17:00:00Z",
+      "EndDate": "1970-06-21T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/32",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/32",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/32",
+      "HostTeams": [
+        {
+          "IdTeam": "43911"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "32",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "26",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1966 FIFA World Cup England™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1966",
+      "IdMemberAssociation": [
+        "PRK",
+        "MEX",
+        "ARG",
+        "BRA",
+        "CHI",
+        "URU",
+        "BUL",
+        "ENG",
+        "FRA",
+        "HUN",
+        "ITA",
+        "POR",
+        "ESP",
+        "SUI",
+        "FRG",
+        "URS"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1966-07-11T18:30:00Z",
+      "EndDate": "1966-07-30T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/26",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/26",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/26",
+      "HostTeams": [
+        {
+          "IdTeam": "43942"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "26",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "21",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1962 FIFA World Cup Chile™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1962",
+      "IdMemberAssociation": [
+        "MEX",
+        "ARG",
+        "BRA",
+        "CHI",
+        "COL",
+        "URU",
+        "BUL",
+        "ENG",
+        "HUN",
+        "ITA",
+        "ESP",
+        "SUI",
+        "YUG",
+        "FRG",
+        "TCH",
+        "URS"
+      ],
+      "IdConfederation": [
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1962-05-30T19:00:00Z",
+      "EndDate": "1962-06-17T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/21",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/21",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/21",
+      "HostTeams": [
+        {
+          "IdTeam": "43925"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "21",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "15",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1958 FIFA World Cup Sweden™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1958",
+      "IdMemberAssociation": [
+        "MEX",
+        "ARG",
+        "BRA",
+        "PAR",
+        "AUT",
+        "ENG",
+        "FRA",
+        "HUN",
+        "NIR",
+        "SCO",
+        "SWE",
+        "WAL",
+        "YUG",
+        "FRG",
+        "TCH",
+        "URS"
+      ],
+      "IdConfederation": [
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1958-06-08T12:00:00Z",
+      "EndDate": "1958-06-29T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/15",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/15",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/15",
+      "HostTeams": [
+        {
+          "IdTeam": "43970"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "15",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "9",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1954 FIFA World Cup Switzerland™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1954",
+      "IdMemberAssociation": [
+        "KOR",
+        "MEX",
+        "BRA",
+        "URU",
+        "AUT",
+        "BEL",
+        "ENG",
+        "FRA",
+        "HUN",
+        "ITA",
+        "SCO",
+        "SUI",
+        "TUR",
+        "YUG",
+        "FRG",
+        "TCH"
+      ],
+      "IdConfederation": [
+        "AFC",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1954-06-16T16:00:00Z",
+      "EndDate": "1954-07-04T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/9",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/9",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/9",
+      "HostTeams": [
+        {
+          "IdTeam": "43971"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "9",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "7",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1950 FIFA World Cup Brazil™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1950",
+      "IdMemberAssociation": [
+        "MEX",
+        "USA",
+        "BOL",
+        "BRA",
+        "CHI",
+        "PAR",
+        "URU",
+        "ENG",
+        "ITA",
+        "ESP",
+        "SWE",
+        "SUI",
+        "YUG"
+      ],
+      "IdConfederation": [
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1950-06-24T18:00:00Z",
+      "EndDate": "1950-07-16T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/7",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/7",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/7",
+      "HostTeams": [
+        {
+          "IdTeam": "43924"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "7",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "5",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1938 FIFA World Cup France™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1938",
+      "IdMemberAssociation": [
+        "CUB",
+        "BRA",
+        "BEL",
+        "FRA",
+        "HUN",
+        "ITA",
+        "NED",
+        "NOR",
+        "POL",
+        "ROU",
+        "SWE",
+        "SUI",
+        "GER",
+        "TCH",
+        "INH"
+      ],
+      "IdConfederation": [
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA",
+        "AFC"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1938-06-04T15:00:00Z",
+      "EndDate": "1938-06-19T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/5",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/5",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/5",
+      "HostTeams": [
+        {
+          "IdTeam": "43946"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "5",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "3",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1934 FIFA World Cup Italy™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1934",
+      "IdMemberAssociation": [
+        "EGY",
+        "USA",
+        "ARG",
+        "BRA",
+        "AUT",
+        "BEL",
+        "FRA",
+        "HUN",
+        "ITA",
+        "NED",
+        "ROU",
+        "ESP",
+        "SWE",
+        "SUI",
+        "GER",
+        "TCH"
+      ],
+      "IdConfederation": [
+        "CAF",
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1934-05-27T14:30:00Z",
+      "EndDate": "1934-06-10T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/3",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/3",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/3",
+      "HostTeams": [
+        {
+          "IdTeam": "43954"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "3",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    },
+    {
+      "IdSeason": "1",
+      "Name": [
+        {
+          "Locale": "en-GB",
+          "Description": "1930 FIFA World Cup Uruguay™"
+        }
+      ],
+      "ShortName": [],
+      "Abbreviation": "FWC 1930",
+      "IdMemberAssociation": [
+        "MEX",
+        "USA",
+        "ARG",
+        "BOL",
+        "BRA",
+        "CHI",
+        "PAR",
+        "PER",
+        "URU",
+        "BEL",
+        "FRA",
+        "ROU",
+        "YUG"
+      ],
+      "IdConfederation": [
+        "CONCACAF",
+        "CONMEBOL",
+        "UEFA"
+      ],
+      "IdCompetition": "17",
+      "StartDate": "1930-07-13T18:00:00Z",
+      "EndDate": "1930-07-30T00:00:00Z",
+      "PictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-{format}-{size}/1",
+      "MascotPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-mascot-{format}-{size}/1",
+      "MatchBallPictureUrl": "https://api.fifa.com/api/v3/picture/tournaments-matchball-{format}-{size}/1",
+      "HostTeams": [
+        {
+          "IdTeam": "43930"
+        }
+      ],
+      "SportType": 0,
+      "Properties": {
+        "IdIFES": "1",
+        "Providers": "III"
+      },
+      "IsUpdateable": null
+    }
+  ]
+}

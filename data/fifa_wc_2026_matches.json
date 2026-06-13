@@ -1,0 +1,938 @@
+[
+  {
+    "matchNumber": 1,
+    "idMatch": "400021443",
+    "dateUtc": "2026-06-11T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group A",
+    "home": "Mexico",
+    "away": "South Africa"
+  },
+  {
+    "matchNumber": 2,
+    "idMatch": "400021441",
+    "dateUtc": "2026-06-12T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group A",
+    "home": "Korea Republic",
+    "away": "Czechia"
+  },
+  {
+    "matchNumber": 3,
+    "idMatch": "400021449",
+    "dateUtc": "2026-06-12T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group B",
+    "home": "Canada",
+    "away": "Bosnia and Herzegovina"
+  },
+  {
+    "matchNumber": 4,
+    "idMatch": "400021458",
+    "dateUtc": "2026-06-13T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group D",
+    "home": "USA",
+    "away": "Paraguay"
+  },
+  {
+    "matchNumber": 5,
+    "idMatch": "400021453",
+    "dateUtc": "2026-06-14T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group C",
+    "home": "Haiti",
+    "away": "Scotland"
+  },
+  {
+    "matchNumber": 6,
+    "idMatch": "400021463",
+    "dateUtc": "2026-06-14T04:00:00Z",
+    "stage": "First Stage",
+    "group": "Group D",
+    "home": "Australia",
+    "away": "Türkiye"
+  },
+  {
+    "matchNumber": 7,
+    "idMatch": "400021456",
+    "dateUtc": "2026-06-13T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group C",
+    "home": "Brazil",
+    "away": "Morocco"
+  },
+  {
+    "matchNumber": 8,
+    "idMatch": "400021447",
+    "dateUtc": "2026-06-13T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group B",
+    "home": "Qatar",
+    "away": "Switzerland"
+  },
+  {
+    "matchNumber": 9,
+    "idMatch": "400021467",
+    "dateUtc": "2026-06-14T23:00:00Z",
+    "stage": "First Stage",
+    "group": "Group E",
+    "home": "Côte d'Ivoire",
+    "away": "Ecuador"
+  },
+  {
+    "matchNumber": 10,
+    "idMatch": "400021464",
+    "dateUtc": "2026-06-14T17:00:00Z",
+    "stage": "First Stage",
+    "group": "Group E",
+    "home": "Germany",
+    "away": "Curaçao"
+  },
+  {
+    "matchNumber": 11,
+    "idMatch": "400021470",
+    "dateUtc": "2026-06-14T20:00:00Z",
+    "stage": "First Stage",
+    "group": "Group F",
+    "home": "Netherlands",
+    "away": "Japan"
+  },
+  {
+    "matchNumber": 12,
+    "idMatch": "400021474",
+    "dateUtc": "2026-06-15T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group F",
+    "home": "Sweden",
+    "away": "Tunisia"
+  },
+  {
+    "matchNumber": 13,
+    "idMatch": "400021486",
+    "dateUtc": "2026-06-15T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group H",
+    "home": "Saudi Arabia",
+    "away": "Uruguay"
+  },
+  {
+    "matchNumber": 14,
+    "idMatch": "400021482",
+    "dateUtc": "2026-06-15T16:00:00Z",
+    "stage": "First Stage",
+    "group": "Group H",
+    "home": "Spain",
+    "away": "Cabo Verde"
+  },
+  {
+    "matchNumber": 15,
+    "idMatch": "400021476",
+    "dateUtc": "2026-06-16T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group G",
+    "home": "IR Iran",
+    "away": "New Zealand"
+  },
+  {
+    "matchNumber": 16,
+    "idMatch": "400021478",
+    "dateUtc": "2026-06-15T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group G",
+    "home": "Belgium",
+    "away": "Egypt"
+  },
+  {
+    "matchNumber": 17,
+    "idMatch": "400021490",
+    "dateUtc": "2026-06-16T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group I",
+    "home": "France",
+    "away": "Senegal"
+  },
+  {
+    "matchNumber": 18,
+    "idMatch": "400021488",
+    "dateUtc": "2026-06-16T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group I",
+    "home": "Iraq",
+    "away": "Norway"
+  },
+  {
+    "matchNumber": 19,
+    "idMatch": "400021496",
+    "dateUtc": "2026-06-17T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group J",
+    "home": "Argentina",
+    "away": "Algeria"
+  },
+  {
+    "matchNumber": 20,
+    "idMatch": "400021498",
+    "dateUtc": "2026-06-17T04:00:00Z",
+    "stage": "First Stage",
+    "group": "Group J",
+    "home": "Austria",
+    "away": "Jordan"
+  },
+  {
+    "matchNumber": 21,
+    "idMatch": "400021510",
+    "dateUtc": "2026-06-17T23:00:00Z",
+    "stage": "First Stage",
+    "group": "Group L",
+    "home": "Ghana",
+    "away": "Panama"
+  },
+  {
+    "matchNumber": 22,
+    "idMatch": "400021507",
+    "dateUtc": "2026-06-17T20:00:00Z",
+    "stage": "First Stage",
+    "group": "Group L",
+    "home": "England",
+    "away": "Croatia"
+  },
+  {
+    "matchNumber": 23,
+    "idMatch": "400021502",
+    "dateUtc": "2026-06-17T17:00:00Z",
+    "stage": "First Stage",
+    "group": "Group K",
+    "home": "Portugal",
+    "away": "Congo DR"
+  },
+  {
+    "matchNumber": 24,
+    "idMatch": "400021504",
+    "dateUtc": "2026-06-18T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group K",
+    "home": "Uzbekistan",
+    "away": "Colombia"
+  },
+  {
+    "matchNumber": 25,
+    "idMatch": "400021440",
+    "dateUtc": "2026-06-18T16:00:00Z",
+    "stage": "First Stage",
+    "group": "Group A",
+    "home": "Czechia",
+    "away": "South Africa"
+  },
+  {
+    "matchNumber": 26,
+    "idMatch": "400021446",
+    "dateUtc": "2026-06-18T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group B",
+    "home": "Switzerland",
+    "away": "Bosnia and Herzegovina"
+  },
+  {
+    "matchNumber": 27,
+    "idMatch": "400021450",
+    "dateUtc": "2026-06-18T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group B",
+    "home": "Canada",
+    "away": "Qatar"
+  },
+  {
+    "matchNumber": 28,
+    "idMatch": "400021442",
+    "dateUtc": "2026-06-19T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group A",
+    "home": "Mexico",
+    "away": "Korea Republic"
+  },
+  {
+    "matchNumber": 29,
+    "idMatch": "400021457",
+    "dateUtc": "2026-06-20T00:30:00Z",
+    "stage": "First Stage",
+    "group": "Group C",
+    "home": "Brazil",
+    "away": "Haiti"
+  },
+  {
+    "matchNumber": 30,
+    "idMatch": "400021454",
+    "dateUtc": "2026-06-19T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group C",
+    "home": "Scotland",
+    "away": "Morocco"
+  },
+  {
+    "matchNumber": 31,
+    "idMatch": "400021460",
+    "dateUtc": "2026-06-20T03:00:00Z",
+    "stage": "First Stage",
+    "group": "Group D",
+    "home": "Türkiye",
+    "away": "Paraguay"
+  },
+  {
+    "matchNumber": 32,
+    "idMatch": "400021462",
+    "dateUtc": "2026-06-19T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group D",
+    "home": "USA",
+    "away": "Australia"
+  },
+  {
+    "matchNumber": 33,
+    "idMatch": "400021469",
+    "dateUtc": "2026-06-20T20:00:00Z",
+    "stage": "First Stage",
+    "group": "Group E",
+    "home": "Germany",
+    "away": "Côte d'Ivoire"
+  },
+  {
+    "matchNumber": 34,
+    "idMatch": "400021465",
+    "dateUtc": "2026-06-21T00:00:00Z",
+    "stage": "First Stage",
+    "group": "Group E",
+    "home": "Ecuador",
+    "away": "Curaçao"
+  },
+  {
+    "matchNumber": 35,
+    "idMatch": "400021472",
+    "dateUtc": "2026-06-20T17:00:00Z",
+    "stage": "First Stage",
+    "group": "Group F",
+    "home": "Netherlands",
+    "away": "Sweden"
+  },
+  {
+    "matchNumber": 36,
+    "idMatch": "400021475",
+    "dateUtc": "2026-06-21T04:00:00Z",
+    "stage": "First Stage",
+    "group": "Group F",
+    "home": "Tunisia",
+    "away": "Japan"
+  },
+  {
+    "matchNumber": 37,
+    "idMatch": "400021487",
+    "dateUtc": "2026-06-21T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group H",
+    "home": "Uruguay",
+    "away": "Cabo Verde"
+  },
+  {
+    "matchNumber": 38,
+    "idMatch": "400021483",
+    "dateUtc": "2026-06-21T16:00:00Z",
+    "stage": "First Stage",
+    "group": "Group H",
+    "home": "Spain",
+    "away": "Saudi Arabia"
+  },
+  {
+    "matchNumber": 39,
+    "idMatch": "400021477",
+    "dateUtc": "2026-06-21T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group G",
+    "home": "Belgium",
+    "away": "IR Iran"
+  },
+  {
+    "matchNumber": 40,
+    "idMatch": "400021480",
+    "dateUtc": "2026-06-22T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group G",
+    "home": "New Zealand",
+    "away": "Egypt"
+  },
+  {
+    "matchNumber": 41,
+    "idMatch": "400021491",
+    "dateUtc": "2026-06-23T00:00:00Z",
+    "stage": "First Stage",
+    "group": "Group I",
+    "home": "Norway",
+    "away": "Senegal"
+  },
+  {
+    "matchNumber": 42,
+    "idMatch": "400021492",
+    "dateUtc": "2026-06-22T21:00:00Z",
+    "stage": "First Stage",
+    "group": "Group I",
+    "home": "France",
+    "away": "Iraq"
+  },
+  {
+    "matchNumber": 43,
+    "idMatch": "400021494",
+    "dateUtc": "2026-06-22T17:00:00Z",
+    "stage": "First Stage",
+    "group": "Group J",
+    "home": "Argentina",
+    "away": "Austria"
+  },
+  {
+    "matchNumber": 44,
+    "idMatch": "400021499",
+    "dateUtc": "2026-06-23T03:00:00Z",
+    "stage": "First Stage",
+    "group": "Group J",
+    "home": "Jordan",
+    "away": "Algeria"
+  },
+  {
+    "matchNumber": 45,
+    "idMatch": "400021506",
+    "dateUtc": "2026-06-23T20:00:00Z",
+    "stage": "First Stage",
+    "group": "Group L",
+    "home": "England",
+    "away": "Ghana"
+  },
+  {
+    "matchNumber": 46,
+    "idMatch": "400021511",
+    "dateUtc": "2026-06-23T23:00:00Z",
+    "stage": "First Stage",
+    "group": "Group L",
+    "home": "Panama",
+    "away": "Croatia"
+  },
+  {
+    "matchNumber": 47,
+    "idMatch": "400021503",
+    "dateUtc": "2026-06-23T17:00:00Z",
+    "stage": "First Stage",
+    "group": "Group K",
+    "home": "Portugal",
+    "away": "Uzbekistan"
+  },
+  {
+    "matchNumber": 48,
+    "idMatch": "400021501",
+    "dateUtc": "2026-06-24T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group K",
+    "home": "Colombia",
+    "away": "Congo DR"
+  },
+  {
+    "matchNumber": 49,
+    "idMatch": "400021455",
+    "dateUtc": "2026-06-24T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group C",
+    "home": "Scotland",
+    "away": "Brazil"
+  },
+  {
+    "matchNumber": 50,
+    "idMatch": "400021452",
+    "dateUtc": "2026-06-24T22:00:00Z",
+    "stage": "First Stage",
+    "group": "Group C",
+    "home": "Morocco",
+    "away": "Haiti"
+  },
+  {
+    "matchNumber": 51,
+    "idMatch": "400021451",
+    "dateUtc": "2026-06-24T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group B",
+    "home": "Switzerland",
+    "away": "Canada"
+  },
+  {
+    "matchNumber": 52,
+    "idMatch": "400021448",
+    "dateUtc": "2026-06-24T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group B",
+    "home": "Bosnia and Herzegovina",
+    "away": "Qatar"
+  },
+  {
+    "matchNumber": 53,
+    "idMatch": "400021444",
+    "dateUtc": "2026-06-25T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group A",
+    "home": "Czechia",
+    "away": "Mexico"
+  },
+  {
+    "matchNumber": 54,
+    "idMatch": "400021445",
+    "dateUtc": "2026-06-25T01:00:00Z",
+    "stage": "First Stage",
+    "group": "Group A",
+    "home": "South Africa",
+    "away": "Korea Republic"
+  },
+  {
+    "matchNumber": 55,
+    "idMatch": "400021468",
+    "dateUtc": "2026-06-25T20:00:00Z",
+    "stage": "First Stage",
+    "group": "Group E",
+    "home": "Curaçao",
+    "away": "Côte d'Ivoire"
+  },
+  {
+    "matchNumber": 56,
+    "idMatch": "400021466",
+    "dateUtc": "2026-06-25T20:00:00Z",
+    "stage": "First Stage",
+    "group": "Group E",
+    "home": "Ecuador",
+    "away": "Germany"
+  },
+  {
+    "matchNumber": 57,
+    "idMatch": "400021471",
+    "dateUtc": "2026-06-25T23:00:00Z",
+    "stage": "First Stage",
+    "group": "Group F",
+    "home": "Japan",
+    "away": "Sweden"
+  },
+  {
+    "matchNumber": 58,
+    "idMatch": "400021473",
+    "dateUtc": "2026-06-25T23:00:00Z",
+    "stage": "First Stage",
+    "group": "Group F",
+    "home": "Tunisia",
+    "away": "Netherlands"
+  },
+  {
+    "matchNumber": 59,
+    "idMatch": "400021459",
+    "dateUtc": "2026-06-26T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group D",
+    "home": "Türkiye",
+    "away": "USA"
+  },
+  {
+    "matchNumber": 60,
+    "idMatch": "400021461",
+    "dateUtc": "2026-06-26T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group D",
+    "home": "Paraguay",
+    "away": "Australia"
+  },
+  {
+    "matchNumber": 61,
+    "idMatch": "400021489",
+    "dateUtc": "2026-06-26T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group I",
+    "home": "Norway",
+    "away": "France"
+  },
+  {
+    "matchNumber": 62,
+    "idMatch": "400021493",
+    "dateUtc": "2026-06-26T19:00:00Z",
+    "stage": "First Stage",
+    "group": "Group I",
+    "home": "Senegal",
+    "away": "Iraq"
+  },
+  {
+    "matchNumber": 63,
+    "idMatch": "400021479",
+    "dateUtc": "2026-06-27T03:00:00Z",
+    "stage": "First Stage",
+    "group": "Group G",
+    "home": "Egypt",
+    "away": "IR Iran"
+  },
+  {
+    "matchNumber": 64,
+    "idMatch": "400021481",
+    "dateUtc": "2026-06-27T03:00:00Z",
+    "stage": "First Stage",
+    "group": "Group G",
+    "home": "New Zealand",
+    "away": "Belgium"
+  },
+  {
+    "matchNumber": 65,
+    "idMatch": "400021485",
+    "dateUtc": "2026-06-27T00:00:00Z",
+    "stage": "First Stage",
+    "group": "Group H",
+    "home": "Cabo Verde",
+    "away": "Saudi Arabia"
+  },
+  {
+    "matchNumber": 66,
+    "idMatch": "400021484",
+    "dateUtc": "2026-06-27T00:00:00Z",
+    "stage": "First Stage",
+    "group": "Group H",
+    "home": "Uruguay",
+    "away": "Spain"
+  },
+  {
+    "matchNumber": 67,
+    "idMatch": "400021508",
+    "dateUtc": "2026-06-27T21:00:00Z",
+    "stage": "First Stage",
+    "group": "Group L",
+    "home": "Panama",
+    "away": "England"
+  },
+  {
+    "matchNumber": 68,
+    "idMatch": "400021509",
+    "dateUtc": "2026-06-27T21:00:00Z",
+    "stage": "First Stage",
+    "group": "Group L",
+    "home": "Croatia",
+    "away": "Ghana"
+  },
+  {
+    "matchNumber": 69,
+    "idMatch": "400021497",
+    "dateUtc": "2026-06-28T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group J",
+    "home": "Algeria",
+    "away": "Austria"
+  },
+  {
+    "matchNumber": 70,
+    "idMatch": "400021495",
+    "dateUtc": "2026-06-28T02:00:00Z",
+    "stage": "First Stage",
+    "group": "Group J",
+    "home": "Jordan",
+    "away": "Argentina"
+  },
+  {
+    "matchNumber": 71,
+    "idMatch": "400021505",
+    "dateUtc": "2026-06-27T23:30:00Z",
+    "stage": "First Stage",
+    "group": "Group K",
+    "home": "Colombia",
+    "away": "Portugal"
+  },
+  {
+    "matchNumber": 72,
+    "idMatch": "400021500",
+    "dateUtc": "2026-06-27T23:30:00Z",
+    "stage": "First Stage",
+    "group": "Group K",
+    "home": "Congo DR",
+    "away": "Uzbekistan"
+  },
+  {
+    "matchNumber": 73,
+    "idMatch": "400021518",
+    "dateUtc": "2026-06-28T19:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 74,
+    "idMatch": "400021513",
+    "dateUtc": "2026-06-29T20:30:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 75,
+    "idMatch": "400021522",
+    "dateUtc": "2026-06-30T01:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 76,
+    "idMatch": "400021516",
+    "dateUtc": "2026-06-29T17:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 77,
+    "idMatch": "400021523",
+    "dateUtc": "2026-06-30T21:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 78,
+    "idMatch": "400021514",
+    "dateUtc": "2026-06-30T17:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 79,
+    "idMatch": "400021520",
+    "dateUtc": "2026-07-01T01:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 80,
+    "idMatch": "400021512",
+    "dateUtc": "2026-07-01T16:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 81,
+    "idMatch": "400021524",
+    "dateUtc": "2026-07-02T00:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 82,
+    "idMatch": "400021525",
+    "dateUtc": "2026-07-01T20:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 83,
+    "idMatch": "400021526",
+    "dateUtc": "2026-07-02T23:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 84,
+    "idMatch": "400021519",
+    "dateUtc": "2026-07-02T19:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 85,
+    "idMatch": "400021527",
+    "dateUtc": "2026-07-03T03:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 86,
+    "idMatch": "400021521",
+    "dateUtc": "2026-07-03T22:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 87,
+    "idMatch": "400021517",
+    "dateUtc": "2026-07-04T01:30:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 88,
+    "idMatch": "400021515",
+    "dateUtc": "2026-07-03T18:00:00Z",
+    "stage": "Round of 32",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 89,
+    "idMatch": "400021533",
+    "dateUtc": "2026-07-04T21:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 90,
+    "idMatch": "400021530",
+    "dateUtc": "2026-07-04T17:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 91,
+    "idMatch": "400021532",
+    "dateUtc": "2026-07-05T20:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 92,
+    "idMatch": "400021531",
+    "dateUtc": "2026-07-06T00:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 93,
+    "idMatch": "400021529",
+    "dateUtc": "2026-07-06T19:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 94,
+    "idMatch": "400021534",
+    "dateUtc": "2026-07-07T00:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 95,
+    "idMatch": "400021528",
+    "dateUtc": "2026-07-07T16:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 96,
+    "idMatch": "400021535",
+    "dateUtc": "2026-07-07T20:00:00Z",
+    "stage": "Round of 16",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 97,
+    "idMatch": "400021536",
+    "dateUtc": "2026-07-09T20:00:00Z",
+    "stage": "Quarter-final",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 98,
+    "idMatch": "400021538",
+    "dateUtc": "2026-07-10T19:00:00Z",
+    "stage": "Quarter-final",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 99,
+    "idMatch": "400021539",
+    "dateUtc": "2026-07-11T21:00:00Z",
+    "stage": "Quarter-final",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 100,
+    "idMatch": "400021537",
+    "dateUtc": "2026-07-12T01:00:00Z",
+    "stage": "Quarter-final",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 101,
+    "idMatch": "400021541",
+    "dateUtc": "2026-07-14T19:00:00Z",
+    "stage": "Semi-final",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 102,
+    "idMatch": "400021540",
+    "dateUtc": "2026-07-15T19:00:00Z",
+    "stage": "Semi-final",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 103,
+    "idMatch": "400021542",
+    "dateUtc": "2026-07-18T21:00:00Z",
+    "stage": "Play-off for third place",
+    "group": "",
+    "home": "",
+    "away": ""
+  },
+  {
+    "matchNumber": 104,
+    "idMatch": "400021543",
+    "dateUtc": "2026-07-19T19:00:00Z",
+    "stage": "Final",
+    "group": "",
+    "home": "",
+    "away": ""
+  }
+]

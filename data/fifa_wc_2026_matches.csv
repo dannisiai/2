@@ -1,0 +1,105 @@
+matchNumber,idMatch,dateUtc,stage,group,home,away
+1,400021443,2026-06-11T19:00:00Z,First Stage,Group A,Mexico,South Africa
+2,400021441,2026-06-12T02:00:00Z,First Stage,Group A,Korea Republic,Czechia
+3,400021449,2026-06-12T19:00:00Z,First Stage,Group B,Canada,Bosnia and Herzegovina
+4,400021458,2026-06-13T01:00:00Z,First Stage,Group D,USA,Paraguay
+5,400021453,2026-06-14T01:00:00Z,First Stage,Group C,Haiti,Scotland
+6,400021463,2026-06-14T04:00:00Z,First Stage,Group D,Australia,Türkiye
+7,400021456,2026-06-13T22:00:00Z,First Stage,Group C,Brazil,Morocco
+8,400021447,2026-06-13T19:00:00Z,First Stage,Group B,Qatar,Switzerland
+9,400021467,2026-06-14T23:00:00Z,First Stage,Group E,Côte d'Ivoire,Ecuador
+10,400021464,2026-06-14T17:00:00Z,First Stage,Group E,Germany,Curaçao
+11,400021470,2026-06-14T20:00:00Z,First Stage,Group F,Netherlands,Japan
+12,400021474,2026-06-15T02:00:00Z,First Stage,Group F,Sweden,Tunisia
+13,400021486,2026-06-15T22:00:00Z,First Stage,Group H,Saudi Arabia,Uruguay
+14,400021482,2026-06-15T16:00:00Z,First Stage,Group H,Spain,Cabo Verde
+15,400021476,2026-06-16T01:00:00Z,First Stage,Group G,IR Iran,New Zealand
+16,400021478,2026-06-15T19:00:00Z,First Stage,Group G,Belgium,Egypt
+17,400021490,2026-06-16T19:00:00Z,First Stage,Group I,France,Senegal
+18,400021488,2026-06-16T22:00:00Z,First Stage,Group I,Iraq,Norway
+19,400021496,2026-06-17T01:00:00Z,First Stage,Group J,Argentina,Algeria
+20,400021498,2026-06-17T04:00:00Z,First Stage,Group J,Austria,Jordan
+21,400021510,2026-06-17T23:00:00Z,First Stage,Group L,Ghana,Panama
+22,400021507,2026-06-17T20:00:00Z,First Stage,Group L,England,Croatia
+23,400021502,2026-06-17T17:00:00Z,First Stage,Group K,Portugal,Congo DR
+24,400021504,2026-06-18T02:00:00Z,First Stage,Group K,Uzbekistan,Colombia
+25,400021440,2026-06-18T16:00:00Z,First Stage,Group A,Czechia,South Africa
+26,400021446,2026-06-18T19:00:00Z,First Stage,Group B,Switzerland,Bosnia and Herzegovina
+27,400021450,2026-06-18T22:00:00Z,First Stage,Group B,Canada,Qatar
+28,400021442,2026-06-19T01:00:00Z,First Stage,Group A,Mexico,Korea Republic
+29,400021457,2026-06-20T00:30:00Z,First Stage,Group C,Brazil,Haiti
+30,400021454,2026-06-19T22:00:00Z,First Stage,Group C,Scotland,Morocco
+31,400021460,2026-06-20T03:00:00Z,First Stage,Group D,Türkiye,Paraguay
+32,400021462,2026-06-19T19:00:00Z,First Stage,Group D,USA,Australia
+33,400021469,2026-06-20T20:00:00Z,First Stage,Group E,Germany,Côte d'Ivoire
+34,400021465,2026-06-21T00:00:00Z,First Stage,Group E,Ecuador,Curaçao
+35,400021472,2026-06-20T17:00:00Z,First Stage,Group F,Netherlands,Sweden
+36,400021475,2026-06-21T04:00:00Z,First Stage,Group F,Tunisia,Japan
+37,400021487,2026-06-21T22:00:00Z,First Stage,Group H,Uruguay,Cabo Verde
+38,400021483,2026-06-21T16:00:00Z,First Stage,Group H,Spain,Saudi Arabia
+39,400021477,2026-06-21T19:00:00Z,First Stage,Group G,Belgium,IR Iran
+40,400021480,2026-06-22T01:00:00Z,First Stage,Group G,New Zealand,Egypt
+41,400021491,2026-06-23T00:00:00Z,First Stage,Group I,Norway,Senegal
+42,400021492,2026-06-22T21:00:00Z,First Stage,Group I,France,Iraq
+43,400021494,2026-06-22T17:00:00Z,First Stage,Group J,Argentina,Austria
+44,400021499,2026-06-23T03:00:00Z,First Stage,Group J,Jordan,Algeria
+45,400021506,2026-06-23T20:00:00Z,First Stage,Group L,England,Ghana
+46,400021511,2026-06-23T23:00:00Z,First Stage,Group L,Panama,Croatia
+47,400021503,2026-06-23T17:00:00Z,First Stage,Group K,Portugal,Uzbekistan
+48,400021501,2026-06-24T02:00:00Z,First Stage,Group K,Colombia,Congo DR
+49,400021455,2026-06-24T22:00:00Z,First Stage,Group C,Scotland,Brazil
+50,400021452,2026-06-24T22:00:00Z,First Stage,Group C,Morocco,Haiti
+51,400021451,2026-06-24T19:00:00Z,First Stage,Group B,Switzerland,Canada
+52,400021448,2026-06-24T19:00:00Z,First Stage,Group B,Bosnia and Herzegovina,Qatar
+53,400021444,2026-06-25T01:00:00Z,First Stage,Group A,Czechia,Mexico
+54,400021445,2026-06-25T01:00:00Z,First Stage,Group A,South Africa,Korea Republic
+55,400021468,2026-06-25T20:00:00Z,First Stage,Group E,Curaçao,Côte d'Ivoire
+56,400021466,2026-06-25T20:00:00Z,First Stage,Group E,Ecuador,Germany
+57,400021471,2026-06-25T23:00:00Z,First Stage,Group F,Japan,Sweden
+58,400021473,2026-06-25T23:00:00Z,First Stage,Group F,Tunisia,Netherlands
+59,400021459,2026-06-26T02:00:00Z,First Stage,Group D,Türkiye,USA
+60,400021461,2026-06-26T02:00:00Z,First Stage,Group D,Paraguay,Australia
+61,400021489,2026-06-26T19:00:00Z,First Stage,Group I,Norway,France
+62,400021493,2026-06-26T19:00:00Z,First Stage,Group I,Senegal,Iraq
+63,400021479,2026-06-27T03:00:00Z,First Stage,Group G,Egypt,IR Iran
+64,400021481,2026-06-27T03:00:00Z,First Stage,Group G,New Zealand,Belgium
+65,400021485,2026-06-27T00:00:00Z,First Stage,Group H,Cabo Verde,Saudi Arabia
+66,400021484,2026-06-27T00:00:00Z,First Stage,Group H,Uruguay,Spain
+67,400021508,2026-06-27T21:00:00Z,First Stage,Group L,Panama,England
+68,400021509,2026-06-27T21:00:00Z,First Stage,Group L,Croatia,Ghana
+69,400021497,2026-06-28T02:00:00Z,First Stage,Group J,Algeria,Austria
+70,400021495,2026-06-28T02:00:00Z,First Stage,Group J,Jordan,Argentina
+71,400021505,2026-06-27T23:30:00Z,First Stage,Group K,Colombia,Portugal
+72,400021500,2026-06-27T23:30:00Z,First Stage,Group K,Congo DR,Uzbekistan
+73,400021518,2026-06-28T19:00:00Z,Round of 32,,,
+74,400021513,2026-06-29T20:30:00Z,Round of 32,,,
+75,400021522,2026-06-30T01:00:00Z,Round of 32,,,
+76,400021516,2026-06-29T17:00:00Z,Round of 32,,,
+77,400021523,2026-06-30T21:00:00Z,Round of 32,,,
+78,400021514,2026-06-30T17:00:00Z,Round of 32,,,
+79,400021520,2026-07-01T01:00:00Z,Round of 32,,,
+80,400021512,2026-07-01T16:00:00Z,Round of 32,,,
+81,400021524,2026-07-02T00:00:00Z,Round of 32,,,
+82,400021525,2026-07-01T20:00:00Z,Round of 32,,,
+83,400021526,2026-07-02T23:00:00Z,Round of 32,,,
+84,400021519,2026-07-02T19:00:00Z,Round of 32,,,
+85,400021527,2026-07-03T03:00:00Z,Round of 32,,,
+86,400021521,2026-07-03T22:00:00Z,Round of 32,,,
+87,400021517,2026-07-04T01:30:00Z,Round of 32,,,
+88,400021515,2026-07-03T18:00:00Z,Round of 32,,,
+89,400021533,2026-07-04T21:00:00Z,Round of 16,,,
+90,400021530,2026-07-04T17:00:00Z,Round of 16,,,
+91,400021532,2026-07-05T20:00:00Z,Round of 16,,,
+92,400021531,2026-07-06T00:00:00Z,Round of 16,,,
+93,400021529,2026-07-06T19:00:00Z,Round of 16,,,
+94,400021534,2026-07-07T00:00:00Z,Round of 16,,,
+95,400021528,2026-07-07T16:00:00Z,Round of 16,,,
+96,400021535,2026-07-07T20:00:00Z,Round of 16,,,
+97,400021536,2026-07-09T20:00:00Z,Quarter-final,,,
+98,400021538,2026-07-10T19:00:00Z,Quarter-final,,,
+99,400021539,2026-07-11T21:00:00Z,Quarter-final,,,
+100,400021537,2026-07-12T01:00:00Z,Quarter-final,,,
+101,400021541,2026-07-14T19:00:00Z,Semi-final,,,
+102,400021540,2026-07-15T19:00:00Z,Semi-final,,,
+103,400021542,2026-07-18T21:00:00Z,Play-off for third place,,,
+104,400021543,2026-07-19T19:00:00Z,Final,,,
